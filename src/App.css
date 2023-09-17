@@ -1,0 +1,30 @@
+.myInput {
+  border: 2px solid #c8c8c8;
+  display: block;
+  border-radius: 10px;
+  width: 30rem;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.Mycontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.mylist {
+  width: 44rem;
+  margin: auto;
+}
+
+.Listcontainer {
+  margin-top: 30px;
+}
+
+.mylist.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
